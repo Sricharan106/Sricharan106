@@ -2,7 +2,7 @@
 
 I'm a **self-taught developer from India**, passionate about building real-world products and improving every day.
 
-Currently focused on:
+### Currently focused on:
 - Full Stack Development (MERN)
 - Data Structures & Algorithms
 - Exploring AI & backend systems
