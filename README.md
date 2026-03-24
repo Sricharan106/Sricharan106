@@ -11,29 +11,11 @@ Currently focused on:
 
 ## Tech Stack
 
-**Languages**
-- JavaScript / TypeScript  
-- Python  
-- C / C++  
-
-**Frontend**
-- React  
-- Next.js (planned) 
-- HTML, CSS, Tailwind  
-
-**Backend**
-- Node.js  
-- Express  
-- Flask  
-
-**Databases**
-- MongoDB  
-- MySQL  
-- PostgreSQL  
-
-**Other**  
-- Git & GitHub  
-- Linux (Arch btw 😎)
+**Languages:** JavaScript / TypeScript • Python • C / C++  
+**Frontend:** React • HTML • CSS • Tailwind • Next.js (planned)  
+**Backend:** Node.js • Express • Flask  
+**Databases:** MongoDB • MySQL • PostgreSQL  
+**Other:** Git • GitHub • Linux (Arch btw 😎)
 
 ---
 
