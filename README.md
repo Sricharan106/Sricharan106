@@ -39,6 +39,12 @@ Some things I care about:
 
 ---
 
+## Stats
+
+[![Sricharan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sricharan106&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 > “Consistency beats motivation.”
 
 ---
