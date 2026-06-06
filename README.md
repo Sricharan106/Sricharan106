@@ -45,8 +45,7 @@ Some things I care about:
 
 | | |
 |---|---|
-|
-[![Sricharan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sricharan106&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/stats-organization/github-stats-extended) | [![Sricharan's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sricharan106&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast) |
+| [![Sricharan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sricharan106&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/stats-organization/github-stats-extended) | [![Sricharan's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sricharan106&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast) |
 
 ---
 
